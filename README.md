@@ -1,4 +1,4 @@
-![DSC_2090.JPG](/DSC_2090.JPG)
+![1156488.png](/1156488.png)
 
 <h1 align="center">Welcome to my GitHub.</h1>
 
